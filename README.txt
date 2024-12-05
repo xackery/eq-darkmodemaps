@@ -1,0 +1,1 @@
+Copy the darkmode folder to your everquest's map directory, as a subfolder. E.g. maps/darkmode/<files>. In game, open your map, and use the drop down to select darkmode. Enjoy!

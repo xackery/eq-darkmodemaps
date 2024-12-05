@@ -19,9 +19,11 @@ jobs:
       - name: Create ZIP file
         run: |
           mv rof2 darkmode
+          cp README darkmode
           zip -r darkmode-rof2.zip darkmode
           mv darkmode rof2
           mv thj darkmode
+          cp README darkmode
           zip -r darkmode-thj.zip darkmode
           mv darkmode thj
 
