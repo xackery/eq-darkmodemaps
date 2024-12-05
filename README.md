@@ -7,3 +7,8 @@ This is based on [Brewall's](<https://www.eqmaps.info/>) work, all credit goes t
 
 
 Check out [Releases](https://github.com/xackery/eq-darkmodemaps/releases) for the latest download.
+
+
+## THJ
+
+This is a custom map pack for [The Heroes' Journey](https://heroesjourneyemu.com/)
